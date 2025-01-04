@@ -26,9 +26,10 @@ venv\Scripts\activate
 
 
 ### 3. Installer les Dépendances
-Ce projet n'utilise pas de bibliothèques externes, donc aucune dépendance supplémentaire n'est requise. Si nécessaire, installez-les avec :
+
 ```bash
-pip install -r requirements.txt
+pip install matplotlib
+
 ```
 
 
@@ -78,7 +79,7 @@ Seuil : 2, Points Simplifiés : [...]
 
 ## Prerequisites
 1. **Python 3.x** installed on your system.
-2. Basic knowledge of virtual environments and Python script execution.
+
 
 ---
 
@@ -104,11 +105,11 @@ source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
-This project does not use external libraries, so no additional dependencies are required. If required, install them with:
 ```bash
-pip install -r requirements.txt
+pip install matplotlib
+
 ```
-(Note: Ensure `requirements.txt` is provided if libraries are needed.)
+
 
 ---
 
